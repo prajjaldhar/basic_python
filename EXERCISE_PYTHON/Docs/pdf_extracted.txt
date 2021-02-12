@@ -1,0 +1,57 @@
+  
+ 
+ 
+ 
+ 
+DIGITAL ELECTRONICS LAB ASSIGNMENT
+ 
+ 
+NAME:PRAJJAL DHAR
+ 
+DATE: 
+12
+th
+ 
+DEC
+EMBER
+ 
+2020
+ 
+           
+SATURDAY
+ 
+Ques 
+2
+4
+. VHLD CODE TO DESIGN
+ 
+MOD
+-
+8
+ 
+A
+SYNCHRONOUS 
+UNIVERSAL 
+COUNTER
+ 
+(STRUCTURAL MODELLING).
+ 
+ 
+ 
+WAVEFORM:
+-
+ 
+ 
+DIAGRAM:
+-
+ 
+ 
+ 
+ 
+-
+THIS IMAGE IS DESIGNED BY 
+PRAJJAL DHAR
+ 
+ 
+             
+ 

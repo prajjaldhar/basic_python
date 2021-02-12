@@ -1,0 +1,5 @@
+name=input("ENTER YOUR NAME: ")
+age=int(input("enetr your present age: "))
+print("hello {}, your present age is {}".format(name,age) )
+print(f"hi {name} your present age is {age}")
+print("hi "+name+" your current age is "+str(age))
